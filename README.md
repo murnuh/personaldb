@@ -3,6 +3,8 @@
 This is a SQL db project inspired by the following resource, https://cstack.github.io/db_tutorial/ as well as this tweet/X https://x.com/0xkatzz/status/1886672627118535070?t=TeGSmNWe8yCLWg-rLFH8RA&s=19 . I wanted to learn more about SQL as well as creating
 a portfolio while also learn deeper about Scala language.
 
+I will try my best to write these purely in Scala.
+
 I am expecting to learn the following concepts/knowledge:
     1. API by creating an interface for my database to communicate with outside applications
     2. Parsing

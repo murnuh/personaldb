@@ -1,0 +1,24 @@
+Based on the reference. Here's my todo list.
+
+TODO:
+
+### Tokenizer
+## ???
+
+### Parser
+## ???
+
+### Code Generator
+## ???
+
+### Virtual Machine
+## ???
+
+### B-Tree
+## ???
+
+### Pager
+## ???
+
+### OS Interface
+## ???
