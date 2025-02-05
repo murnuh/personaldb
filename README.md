@@ -5,13 +5,13 @@ a portfolio while also learn deeper about Scala language.
 
 I will try my best to write these purely in Scala.
 
-I am expecting to learn the following concepts/knowledge:
-    1. API by creating an interface for my database to communicate with outside applications
-    2. Parsing
-    3. Data Structures and Algorithm by implementing B-Tree in Scala
-    4. OS call within scala/jvm
-    5. Unit Test
-    6. Multi-threading (possibly)
-    7. HTTPS API
+I am expecting to learn the following concepts/knowledge
+1. API by creating an interface for my database to communicate with outside applications
+2. Parsing
+3. Data Structures and Algorithm by implementing B-Tree in Scala
+4. OS call within scala/jvm
+5. Unit Test
+6. Multi-threading (possibly)
+7. HTTPS API
 
 This might still be early but if it works, I would like to create a db to combine redis, vector processing (with GPU).
